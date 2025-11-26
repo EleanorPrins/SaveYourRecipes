@@ -1,4 +1,4 @@
-<h3 style="font-size:3rem" align="center">SaveYour.Recipes</h3>
+<h3 align="center">SaveYour.Recipes</h3>
 <p align="center">
     <i>"Your Digital Recipe Box"</i>
     <br>
