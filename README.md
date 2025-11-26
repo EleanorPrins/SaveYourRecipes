@@ -1,5 +1,5 @@
-<h3 style="font-size:3rem; text-align: center;">SaveYour.Recipes</h3>
-<p style="text-align: center;">
+<h3 style="font-size:3rem" align="center">SaveYour.Recipes</h3>
+<p align="center">
     <i>"Your Digital Recipe Box"</i>
     <br>
     <strong><a href="https://docs.saveyour.recipes">Docs »</a></strong>
