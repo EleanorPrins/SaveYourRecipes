@@ -1,5 +1,7 @@
 site_name: Save Your Recipes
 site_url: https://docs.saveyour.recipes
+repo_url: https://github.com/EleanorPrins/SaveYourRecipes
+repo_name: SaveYourRecipes
 
 extra_css:
   - assets/stylesheets/extra.css
