@@ -1,15 +1,16 @@
 @font-face {
   font-family: "Vujahday Script";
-  src: url('/assets/fonts/VujahdayScript-Regular.ttf');
+  src: url("/assets/fonts/VujahdayScript-Regular.ttf");
 }
 
-:root  > * {
-  --md-primary-fg-color:        #E35336;
+:root > * {
+  --md-primary-fg-color: #e35336;
   --md-primary-fg-color--light: #e1816e;
-  --md-primary-fg-color--dark:  #c2381c;
+  --md-primary-fg-color--dark: #c2381c;
 }
 
-.md-header__title, .md-nav__title {
+.md-header__title,
+.md-nav__title {
   font-family: "Vujahday Script", cursive;
   font-weight: 400;
   font-style: normal;
