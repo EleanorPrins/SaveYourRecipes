@@ -3,6 +3,9 @@ site_url: https://docs.saveyour.recipes
 repo_url: https://github.com/EleanorPrins/SaveYourRecipes
 repo_name: SaveYourRecipes
 
+copyright: >
+  Copyright &copy; 2025 Eleanor Prins
+
 extra_css:
   - assets/stylesheets/extra.css
 
