@@ -28,3 +28,9 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force -f docs/mkdocs.yml
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
