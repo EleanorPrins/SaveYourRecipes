@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Vujahday Script";
   src: local("Vujahday Script"),
-    url("/fonts/VujahdayScript-Regular.woff2") format("woff2");
+    url("/assets/fonts/VujahdayScript-Regular.woff2") format("woff2");
   font-display: auto;
 }
 
