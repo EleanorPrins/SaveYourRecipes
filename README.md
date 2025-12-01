@@ -6,12 +6,12 @@
     <br>
     <a href="https://demo.saveyour.recipes">Demo</a>
     ·
-    <a href="https://github.com/Joyte/saveyourrecipes/issues">Report A Bug</a>
+    <a href="https://github.com/EleanorPrins/saveyourrecipes/issues">Report A Bug</a>
     ·
     <a href="">Container Registry</a>
 </p>
 
-[![Product screen shot on different devices](placeholder-mockup.png)](https://saveyour.recipes)
+[![Product screen shot on different devices](/docs/docs/assets/img/placeholder-mockup.png)](https://saveyour.recipes)
 
 <h2>What's this about?</h2>
 <p>
