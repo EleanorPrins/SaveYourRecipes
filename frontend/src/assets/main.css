@@ -1,0 +1,42 @@
+@import "./base.css";
+
+@font-face {
+  font-family: "Vujahday Script";
+  src:
+    local("Vujahday Script"),
+    url("/fonts/VujahdayScript-Regular.woff2") format("woff2");
+  font-display: auto;
+}
+
+.no-interact {
+  pointer-events: none;
+  user-select: none;
+}
+
+.no-select {
+  user-select: none;
+}
+
+.no-pointer {
+  pointer-events: none;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+}
