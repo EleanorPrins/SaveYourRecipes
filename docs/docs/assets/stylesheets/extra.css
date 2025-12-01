@@ -10,7 +10,7 @@
 }
 
 .md-header__title,
-.md-nav__title {
+label.md-nav__title:has(a) {
   font-family: "Vujahday Script", cursive;
   font-weight: 400;
   font-style: normal;
